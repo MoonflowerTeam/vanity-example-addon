@@ -1,0 +1,9 @@
+modLoader="lowcodefml"
+loaderVersion="40"
+license="CC0-1.0"
+
+[[mods]]
+modId="vanityexample"
+version="1.0.0"
+displayName="Vanity Example"
+description="An example addon for Vanity"

@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "id": "vanityexample",
+  "version": "1.0.0",
+  "name": "Vanity Example",
+  "description": "An example addon for Vanity",
+  "license": "CC0-1.0",
+  "depends": {
+    "vanity": ">=1.0"
+  }
+}

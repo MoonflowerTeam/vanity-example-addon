@@ -1,0 +1,29 @@
+{
+	"concept_art_model": "vanityexample:example_concept_art",
+	"sold": true,
+	"variants": {
+		"example_variant": [
+			{
+				"item": "minecraft:iron_sword",
+				"model": "vanityexample:iron_example"
+			},
+			{
+				"tag": "minecraft:music_discs",
+				"model": "vanityexample:disc_example"
+			}
+		],
+		"handheld_model_example": [
+			{
+				"item": "minecraft:iron_sword",
+				"model": "vanityexample:iron_example",
+				"hand_model": "vanityexample:iron_example_handheld"
+
+			},
+			{
+				"tag": "minecraft:music_discs",
+				"model": "vanityexample:disc_example",
+				"hand_model": "vanityexample:disc_example_handheld"
+			}
+		]
+	}
+}
